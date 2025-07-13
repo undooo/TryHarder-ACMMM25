@@ -1,0 +1,14 @@
+dataset: ltcc, model: none, rank1: 0.43002027, mAP: 0.23228326916632
+dataset: ltcc, model: none, rank2: 0.18112245, mAP: 0.10847958440710356
+dataset: prcc, model: none, rank1: 0.9997418, mAP: 0.9751652886203799
+dataset: prcc, model: none, rank2: 0.6034434, mAP: 0.5160130370575358
+dataset: prcc, model: none, rank1: 1.0, mAP: 0.9902759000922476
+dataset: prcc, model: none, rank2: 0.60005647, mAP: 0.518811329805391
+dataset: ltcc, model: none, rank1: 0.6653144, mAP: 0.3277667405121132
+dataset: ltcc, model: none, rank2: 0.29591838, mAP: 0.13874791789564067
+dataset: prcc, model: none, rank1: 0.9997418, mAP: 0.9871204596543945
+dataset: prcc, model: none, rank2: 0.60908836, mAP: 0.5295386741739134
+dataset: prcc, model: none, rank1: 0.99509424, mAP: 0.95611741001781
+dataset: prcc, model: none, rank2: 0.5859441, mAP: 0.4772619867599581
+dataset: ltcc, model: none, rank1: 0.6186613, mAP: 0.3085862825041784
+dataset: ltcc, model: none, rank2: 0.26020408, mAP: 0.13332530752636
