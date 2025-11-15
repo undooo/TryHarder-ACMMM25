@@ -128,7 +128,7 @@ class TripletHAdapLoss(object):
 
     def __call__(self, global_feat, labels, hardN_mat, hardP_mat, normalize_feature=False):
         
-        if self.cfg.HMETHOD == '1.05':
+        if self.cfg.HMETHOD == 1.05:
           p_factor = 1.05
           n_factor = 0.95
         else:
